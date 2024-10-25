@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rajeshwari M</h1>
 <h3 align="center">A passionate frontend developer from TamilNadu</h3>
 
-- 🔭 I’m currently working on **Problem solving, console based applications & web applications*
+- 🔭 I’m currently working on **Problem solving, console based applications & web applications**
 
 - 🔭 I’m currently working on **Thirukkural -Web Application**
   
